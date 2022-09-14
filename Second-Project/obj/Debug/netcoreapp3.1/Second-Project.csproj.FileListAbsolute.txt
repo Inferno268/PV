@@ -12,3 +12,5 @@
 /Users/marekmacku/Projects/Second-Project/Second-Project/obj/Debug/netcoreapp3.1/Second-Project.dll
 /Users/marekmacku/Projects/Second-Project/Second-Project/obj/Debug/netcoreapp3.1/Second-Project.pdb
 /Users/marekmacku/Projects/Second-Project/Second-Project/obj/Debug/netcoreapp3.1/Second-Project.genruntimeconfig.cache
+/Users/marekmacku/Projects/Second-Project/Second-Project/bin/Debug/netcoreapp3.1/JetBrains.Annotations.dll
+/Users/marekmacku/Projects/Second-Project/Second-Project/obj/Debug/netcoreapp3.1/Second-Project.csproj.CopyComplete

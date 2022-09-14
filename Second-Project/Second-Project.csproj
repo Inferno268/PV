@@ -6,4 +6,10 @@
     <RootNamespace>Second_Project</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="JetBrains.Annotations" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="JetBrains.Annotations" Version="2022.1.0" />
+  </ItemGroup>
 </Project>

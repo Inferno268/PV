@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "U6Q6FY2o6ETON2WhLGjHlI7GF3MfLU3zrSIjfICoJYrP8jq0tKEDAMYLJ4/P6bKbj/B8kq8AbIucdUUpr6dDyA==",
+  "dgSpecHash": "hM/MFEQ0m9AweCB/pSQ/2NJclQ/bXhVNt7UOZjB/UjgR2A4nhux90mN3eR5gFQmuW+TWWoNHA7cdbVmgRHXiwA==",
   "success": true,
   "projectFilePath": "/Users/marekmacku/Projects/Second-Project/Second-Project/Second-Project.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/marekmacku/.nuget/packages/jetbrains.annotations/2022.1.0/jetbrains.annotations.2022.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Second_Project
 {
@@ -10,8 +11,21 @@ namespace Second_Project
             int start2 = 5;
             int end2 = 20;
 
-
-        var fibNumbers = new List<int> { 0, 1, 1, 2, 3, 5, 8, 13 };
+        
+        public List<int> Pen()
+         {
+            var Num = new List<int> {1,2,3,4};
+            var Num2 = new List<int> {3,4};
+            var FinalNum= new List<int> {};
+            int[] arr = {1,2,3,4};
+           
+            foreach (int element in Num)
+            {
+              int lol = Array.Find(Num,element =>  element == Num2);
+                FinalNum.Add(lol);  
+            }
+            return FinalNum;
+        }
 
 
         public int Start { get => start; set => start = value; }
@@ -30,23 +44,6 @@ namespace Second_Project
                 return "Cislo je v intervalu";
             }
         }
-     /*   public String Inrervals(int x)
-        {
-            if(x <= end2 && x >= start){
-                return "Cislo je v intervalu";
-            }
-            else
-            {
-                return null;
-            }
-        }*/
-
-foreach (int element in Num)
-{
-
-}
-
-
 }
 }
 
