@@ -1,0 +1,15 @@
+M:\PV\Dědičnost\Dědičnost\bin\Debug\net6.0\Dědičnost.exe
+M:\PV\Dědičnost\Dědičnost\bin\Debug\net6.0\Dědičnost.deps.json
+M:\PV\Dědičnost\Dědičnost\bin\Debug\net6.0\Dědičnost.runtimeconfig.json
+M:\PV\Dědičnost\Dědičnost\bin\Debug\net6.0\Dědičnost.dll
+M:\PV\Dědičnost\Dědičnost\bin\Debug\net6.0\Dědičnost.pdb
+M:\PV\Dědičnost\Dědičnost\obj\Debug\net6.0\Dědičnost.csproj.AssemblyReference.cache
+M:\PV\Dědičnost\Dědičnost\obj\Debug\net6.0\Dědičnost.GeneratedMSBuildEditorConfig.editorconfig
+M:\PV\Dědičnost\Dědičnost\obj\Debug\net6.0\Dědičnost.AssemblyInfoInputs.cache
+M:\PV\Dědičnost\Dědičnost\obj\Debug\net6.0\Dědičnost.AssemblyInfo.cs
+M:\PV\Dědičnost\Dědičnost\obj\Debug\net6.0\Dědičnost.csproj.CoreCompileInputs.cache
+M:\PV\Dědičnost\Dědičnost\obj\Debug\net6.0\Dědičnost.dll
+M:\PV\Dědičnost\Dědičnost\obj\Debug\net6.0\refint\Dědičnost.dll
+M:\PV\Dědičnost\Dědičnost\obj\Debug\net6.0\Dědičnost.pdb
+M:\PV\Dědičnost\Dědičnost\obj\Debug\net6.0\Dědičnost.genruntimeconfig.cache
+M:\PV\Dědičnost\Dědičnost\obj\Debug\net6.0\ref\Dědičnost.dll
